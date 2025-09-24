@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/386135921062571106/fd36b1c37a324deeaf1bd26782863688/artifacts
+end_time: 1758560592933
+entry_point_name: ''
+experiment_id: '386135921062571106'
+lifecycle_stage: active
+run_id: fd36b1c37a324deeaf1bd26782863688
+run_name: righteous-skink-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758560592582
+status: 3
+tags: []
+user_id: amxr

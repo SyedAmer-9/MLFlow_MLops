@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/386135921062571106/650848779d3e4d6590c071f3dd097783/artifacts
+end_time: 1758562823265
+entry_point_name: ''
+experiment_id: '386135921062571106'
+lifecycle_stage: active
+run_id: 650848779d3e4d6590c071f3dd097783
+run_name: beautiful-smelt-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758562821115
+status: 3
+tags: []
+user_id: amxr

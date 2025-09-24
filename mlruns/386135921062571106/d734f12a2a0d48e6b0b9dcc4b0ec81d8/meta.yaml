@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/386135921062571106/d734f12a2a0d48e6b0b9dcc4b0ec81d8/artifacts
+end_time: 1758561204495
+entry_point_name: ''
+experiment_id: '386135921062571106'
+lifecycle_stage: active
+run_id: d734f12a2a0d48e6b0b9dcc4b0ec81d8
+run_name: rumbling-hen-68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758561204049
+status: 4
+tags: []
+user_id: amxr

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/386135921062571106/b792fbdc42384087974b3e4141d691f4/artifacts
+end_time: 1758562421135
+entry_point_name: ''
+experiment_id: '386135921062571106'
+lifecycle_stage: active
+run_id: b792fbdc42384087974b3e4141d691f4
+run_name: invincible-pig-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758562418210
+status: 3
+tags: []
+user_id: amxr
